@@ -1,0 +1,48 @@
+2024-Oct-26-11:04:52,ETL Job Started
+2024-Oct-26-11:04:52,Beginning Extraction
+2024-Oct-26-11:04:52,End Extraction
+2024-Oct-26-11:04:52,Beginning Transformation
+2024-Oct-26-11:04:52,End Transformation
+2024-Oct-26-11:04:52,Beginning Loading
+2024-Oct-26-11:04:52,Loaded Data
+2024-Oct-26-11:04:52,ETL Job Ended Successfully
+2024-Oct-26-11:06:36,ETL Job Started
+2024-Oct-26-11:06:36,Beginning Extraction
+2024-Oct-26-11:06:36,End Extraction
+2024-Oct-26-11:06:36,Beginning Transformation
+2024-Oct-26-11:06:36,End Transformation
+2024-Oct-26-11:06:36,Beginning Loading
+2024-Oct-26-11:06:36,Loaded Data
+2024-Oct-26-11:06:36,ETL Job Ended Successfully
+2024-Oct-26-11:08:50,ETL Job Started
+2024-Oct-26-11:08:50,Beginning Extraction
+2024-Oct-26-11:08:50,End Extraction
+2024-Oct-26-11:08:50,Beginning Transformation
+2024-Oct-26-11:08:50,End Transformation
+2024-Oct-26-11:08:50,Beginning Loading
+2024-Oct-26-11:08:50,Loaded Data
+2024-Oct-26-11:08:50,ETL Job Ended Successfully
+2024-Oct-26-11:10:45,ETL Job Started
+2024-Oct-26-11:10:45,Beginning Extraction
+2024-Oct-26-11:10:45,End Extraction
+2024-Oct-26-11:10:45,Beginning Transformation
+2024-Oct-26-11:10:45,End Transformation
+2024-Oct-26-11:10:45,Beginning Loading
+2024-Oct-26-11:10:45,Loaded Data
+2024-Oct-26-11:10:45,ETL Job Ended Successfully
+2024-Oct-26-11:13:31,ETL Job Started
+2024-Oct-26-11:13:31,Beginning Extraction
+2024-Oct-26-11:13:31,End Extraction
+2024-Oct-26-11:13:31,Beginning Transformation
+2024-Oct-26-11:13:31,End Transformation
+2024-Oct-26-11:13:31,Beginning Loading
+2024-Oct-26-11:13:31,Loaded Data
+2024-Oct-26-11:13:31,ETL Job Ended Successfully
+2024-Oct-26-13:52:59,ETL Job Started
+2024-Oct-26-13:52:59,Beginning Extraction
+2024-Oct-26-13:52:59,End Extraction
+2024-Oct-26-13:52:59,Beginning Transformation
+2024-Oct-26-13:52:59,End Transformation
+2024-Oct-26-13:52:59,Beginning Loading
+2024-Oct-26-13:52:59,Loaded Data
+2024-Oct-26-13:52:59,ETL Job Ended Successfully
